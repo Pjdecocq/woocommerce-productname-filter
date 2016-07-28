@@ -74,10 +74,10 @@
 			}
 			
 			$product_args = array(
-				'post_type'		=> 'product',
+				'post_type'	=> 'product',
 				'post_status'	=> 'publish',
-				'orderby'		=> 'name',
-				'order'			=> 'ASC',
+				'orderby'	=> 'name',
+				'order'		=> 'ASC',
 				'posts_per_page'=> -1
 			);
 			$all_products = get_posts($product_args);

@@ -2,10 +2,10 @@
 /*
  * Plugin Name: Woocommerce Productname Filter
  * Version: 1.0
- * Plugin URI: http://wijzijnstuurlui.nl
+ * Plugin URI: https://github.com/Pjdecocq/
  * Description: Registers a widget with a product name filter.
- * Author: Stuurlui
- * Author URI: http://wijzijnstuurlui.nl
+ * Author: Paul de Cocq
+ * Author URI: https://github.com/Pjdecocq/
  */
  defined( 'ABSPATH' ) or die( 'Plugin file cannot be accessed directly.' );
  
